@@ -1,0 +1,155 @@
+{
+  "replacement_rules": [
+    {
+      "name": "arena",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/textures/arena.png"
+    },
+    {
+      "name": "SBK",
+      "replace_ids": [
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/sky/sky512_bk.tex"
+    },
+    {
+      "name": "SDN",
+      "replace_ids": [
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/sky/sky512_dn.tex"
+    },
+    {
+      "name": "SLF",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/sky/sky512_lf.tex"
+    },
+    {
+      "name": "SRT",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/sky/sky512_rt.tex"
+    },
+    {
+      "name": "SUP",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/sky/sky512_up.tex"
+    },
+    {
+      "name": "SFT",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/sky/sky512_ft.tex"
+    },
+    {
+      "name": "hotbar_selected",
+      "replace_ids": [
+        13220167472,
+        13220167337
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/textures/hotbar_selection.png"
+    },
+    {
+      "name": "hotbar",
+      "replace_ids": [
+        13188242420,
+        13188153054
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/textures/hotbar.png"
+    },
+    {
+      "name": "bodyshot",
+      "replace_ids": [
+        13110130082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/sounds/bodyshot.ogg"
+    },
+    {
+      "name": "headshot",
+      "replace_ids": [
+        16537337310,
+        16537449730
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/sounds/headshot.ogg"
+    },
+    {
+      "name": "font",
+      "replace_ids": [
+        12187323909,
+        12187320363,
+        12187354260,
+        12187342816,
+        12187280273,
+        12187303601,
+        12187262242,
+        12187288714,
+        12187341500,
+        12187271237,
+        12187341020
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/gumiLuan/minecraft-texture/main/font/neodgm.ttf"
+    }
+  ]
+}
